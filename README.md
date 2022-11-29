@@ -17,7 +17,8 @@ N/A
 Please  refer to the MIT licence in the repository.
 
 ## Links
-coming soon....
+https://damiennsoh.github.io/Password_Generator/
+https://github.com/Damiennsoh/Password_Generator
 
 ## Screenshohts
 ![image](https://github.com/Damiennsoh/Password_Generator/blob/main/Screenshots/pw-gen3.jpg)
