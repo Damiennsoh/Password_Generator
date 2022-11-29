@@ -20,6 +20,6 @@ Please  refer to the MIT licence in the repository.
 coming soon....
 
 ## Screenshohts
-
+![image]https://github.com/Damiennsoh/Password_Generator/blob/main/Screenshots/pw-gen3.jpg
 
 
